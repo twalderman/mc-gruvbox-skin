@@ -2,7 +2,6 @@
 
 A warm, retro-inspired color scheme for Midnight Commander based on the popular Gruvbox theme.
 
-![Gruvbox MC Theme](screenshot.png)
 
 ## Features
 
